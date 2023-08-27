@@ -1,7 +1,6 @@
 import React from "react";
 import css from './ContactForm.module.css'
 import PropTypes from 'prop-types';
-
 const ContactForm = ({onSubmit}) => {
  
     // static propTypes = {
